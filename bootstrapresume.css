@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: black;
+}
+
+.row{
+    text-align:center;
+    margin-top: 50px;
+}
+
+.display{
+    color: black;
+}
+
+.intro{
+    color:black;
+}
+
+h1{
+    margin-left:50px;
+    color: white;
+    
+}
+h3 {
+    margin-left:50px;
+    color: white;
+}
+
+p{
+    margin-left:50px;
+    color: white;
+}
+
+li{
+    margin-left:50px;
+    color: white;
+}
+
+hr{
+    background-color: white;
+    margin-left: 50px;
+}
